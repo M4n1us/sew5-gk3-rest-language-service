@@ -1,0 +1,17 @@
+certifi==2019.11.28
+chardet==3.0.4
+cheroot==8.2.1
+Click==7.0
+idna==2.8
+jaraco.functools==3.0.0
+Markdown==3.1.1
+more-itertools==8.1.0
+pycld2==0.42
+PyQt5==5.13.0
+PyQt5-sip==12.7.0
+pyqt5-tools==5.13.0.1.5
+python-dotenv==0.10.3
+requests==2.22.0
+six==1.13.0
+urllib3==1.25.7
+web.py==0.40
